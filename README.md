@@ -3,7 +3,7 @@ Tarea Programada 1
 
 Estudiante: Fabio Andres Sanabria Valerin
 
-Profesosr: Javier Vásquez
+Profesor: Javier Vásquez
 
 Asistente: Andrey Elizondo
 
