@@ -3,6 +3,8 @@ Tarea Programada 1
 
 Estudiante: Fabio Andres Sanabria Valerin
 
+Carnet: C07194 
+
 Profesor: Javier Vásquez
 
 Asistente: Andrey Elizondo
